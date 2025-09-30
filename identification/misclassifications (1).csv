@@ -1,0 +1,4 @@
+split,true,pred,score,path,pred_thresh
+open_set,unknown,sheep-no-115,0.3055290725512592,/content/HIGH/test/open_set/sheep-No-112/IMG20231114154823.jpg,sheep-no-115
+open_set,unknown,sheep-No-102,0.37312420337093705,/content/HIGH/test/open_set/sheep-No-110/IMG20231117162917.jpg,sheep-No-102
+open_set,unknown,sheep-No-106,0.3857530671565974,/content/HIGH/test/open_set/sheep-No-110/IMG20231117162751.jpg,sheep-No-106

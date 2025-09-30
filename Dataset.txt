@@ -1,0 +1,5 @@
+YOLOv8 Model: https://drive.google.com/file/d/1hRdDEVaqZweAwgYjk_McyJs8_AMmfGnr/view?usp=sharing
+Face_embed Model: https://drive.google.com/file/d/1N2w6O_Ia15MkEXIg9WytkdbP4rhFKe74/view?usp=sharing
+Muzzle_embed Model:https://drive.google.com/file/d/1l34D4onl7mEgxNYmz_GXF60-CuoO1z6m/view?usp=sharing
+Identification Dataset Zip: https://drive.google.com/file/d/1K7ztRyYhjS_XJu1us660p6kie8Ek993F/view?usp=sharing
+Verification Dataset Link: https://drive.google.com/file/d/1H7bQdTY-NfjglH4B-SXNvWwaj46I7_30/view?usp=sharing
